@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import * as C from "./styles";
 
 const Header = () => {
@@ -11,4 +11,4 @@ const Header = () => {
     );
 };
 
-export default Header
+export default Header;
